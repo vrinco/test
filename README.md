@@ -1,11 +1,10 @@
 # Release Notes VSW Backoffice
 
 ## Requerimientos de instalación
-<details>
-<summary>
-Las versiones necesarias para instalación de cualquier versión de esta rama pueden variar en función de la minor concreta a instalar. En la siguiente tabla se listan las versiones mínimas necesarias para cada versión.
-</summary>
+Las versiones necesarias para instalación de cualquier versión de esta rama pueden variar en función de la minor concreta a instalar. A continuación se listan las versiones mínimas necesarias para cada versión.
 
+<details>
+<summary># Versión 3.12.0 - Lanzamiento: dd/MM/YYYY</summary>
 | Versión                         | Componente | Versión mínima (Se recomienda la última versión compatible disponible)|
 | ------------------------------- | -------------|------------------------------------------------------------------------------------------ |
 | 3.12.0 </br>Lanzamiento: XX/XX/XXXX | WMF | Descripción de la versión mímima que necesita para lo que sea y bla bla bla bla bla|
