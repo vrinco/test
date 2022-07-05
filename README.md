@@ -3,9 +3,8 @@
 ## Requerimientos de instalación
 Las versiones necesarias para instalación de cualquier versión de esta rama pueden variar en función de la minor concreta a instalar. A continuación se listan las versiones mínimas necesarias para cada versión.
 
-# Versión 3.12.0
 <details>
-<summary> Lanzamiento: dd/MM/YYYY </summary>
+<summary> ### Versión 3.12.0 Lanzamiento: dd/MM/YYYY </summary>
   
 | Versión                         | Componente | Versión mínima (Se recomienda la última versión compatible disponible)|
 | ------------------------------- | -------------|------------------------------------------------------------------------------------------ |
