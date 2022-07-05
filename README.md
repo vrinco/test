@@ -5,6 +5,7 @@ Las versiones necesarias para instalación de cualquier versión de esta rama pu
 
 <details>
 <summary># Versión 3.12.0 - Lanzamiento: dd/MM/YYYY</summary>
+  
 | Versión                         | Componente | Versión mínima (Se recomienda la última versión compatible disponible)|
 | ------------------------------- | -------------|------------------------------------------------------------------------------------------ |
 | 3.12.0 </br>Lanzamiento: XX/XX/XXXX | WMF | Descripción de la versión mímima que necesita para lo que sea y bla bla bla bla bla|
