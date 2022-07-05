@@ -1,8 +1,10 @@
 # Release Notes VSW Backoffice
 
 ## Requerimientos de instalación
-
+<details>
+<summary>
 Las versiones necesarias para instalación de cualquier versión de esta rama pueden variar en función de la minor concreta a instalar. En la siguiente tabla se listan las versiones mínimas necesarias para cada versión.
+</summary>
 
 | Versión                         | Componente | Versión mínima (Se recomienda la última versión compatible disponible)|
 | ------------------------------- | -------------|------------------------------------------------------------------------------------------ |
@@ -13,6 +15,7 @@ Las versiones necesarias para instalación de cualquier versión de esta rama pu
 |                                 | Integration |Descripción de la versión mímima que necesita para lo que sea y bla bla bla bla bla|
 |                                 | JDK |Descripción de la versión mímima que necesita para lo que sea y bla bla bla bla bla|
 
+</details>
 
 ## Compatiblidad con dispositivos remotos
 
