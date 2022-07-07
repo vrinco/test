@@ -48,7 +48,7 @@ Modificaciones de tablas:
 ## Pruebas
 <details>
 <summary>
-
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed efficitur eros dolor. Suspendisse posuere libero neque. Aliquam facilisis condimentum vulputate.
 </summary>
 Etiam tincidunt risus mi, eleifend congue nunc sodales eget. Mauris quis risus et neque efficitur congue non quis arcu. Phasellus rhoncus blandit est, sit amet ullamcorper ante sodales egestas. Quisque dapibus eu lorem ut rutrum. Fusce suscipit libero neque. In at nisi vitae enim porttitor scelerisque. Curabitur venenatis egestas iaculis. Curabitur semper nulla lorem, ac porta dui interdum in. Donec iaculis dignissim elit ut consequat. Morbi eleifend enim sed sapien euismod hendrerit. Curabitur pharetra lacus nec libero mollis fringilla. Duis convallis ornare enim, vitae viverra nunc ultricies eu. Aenean sed tincidunt erat. Sed commodo lectus ut purus auctor tristique. Nullam eget magna ac nulla facilisis blandit in eu ligula.
 </details>
